@@ -1,0 +1,6 @@
+local PlaceId = game.PlaceId
+if PlaceId == 10850356672 or PlaceId == 4442272183 or PlaceId == 7449423635 then --Not rogue lineage copy
+    loadstring(game:HttpGet("https://pastebin.com/raw/f4xsbSAZ", true))()
+elseif PlaceId == 2483973525 then ---Demon Slayer: Burning Ashes
+    loadstring(game:HttpGet("https://pastebin.com/raw/CGj3ya9U", true))()
+end
